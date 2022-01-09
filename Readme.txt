@@ -1,4 +1,4 @@
-brighthub website
+brighthub my website
 Thanks for downloading this template!
 
 Template Name: Dewi
